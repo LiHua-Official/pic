@@ -180,12 +180,10 @@ www.pku.edu.cn
 │           │   ├── fix.css
 │           │   ├── fonts
 │           │   │   ├── iconfont.eot
-│           │   │   ├── iconfont.eot?
 │           │   │   ├── iconfont.svg
 │           │   │   ├── iconfont.ttf
 │           │   │   ├── iconfont.woff
 │           │   │   ├── impact.eot
-│           │   │   ├── impact.eot?
 │           │   │   ├── impact.svg
 │           │   │   ├── impact.ttf
 │           │   │   └── impact.woff
@@ -2228,4 +2226,4 @@ www.pku.edu.cn
 ├── visit.html
 └── xcnk.html
 
-211 directories, 2017 files
+211 directories, 2015 files
